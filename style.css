@@ -1,9 +1,10 @@
 @charset "utf-8";
-.container {
+#container {
   width: 540px;
   margin: 0 auto;
   background-color: azure;
 }
 h1 {
   color: darkolivegreen;
+  font-size: 20px;
 }
